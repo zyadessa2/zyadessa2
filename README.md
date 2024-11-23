@@ -9,7 +9,6 @@
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, Next.js etc.
 - 📚 I’m currently learning everything about Frontend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-<!-- my portfolio ? ==> https://portfolio-git-main-zyadessa2s-projects.vercel.app/-->
 - :mailbox: You can reach me with the links below
 
 <!--[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adamalston)-->
